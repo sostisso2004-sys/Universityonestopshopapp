@@ -102,4 +102,7 @@ Molloy University Student
   Run `npm i` to install the dependencies.
 
   Run `npm run dev` to start the development server.
+
+  <img width="1206" height="2436" alt="IMG_5369" src="https://github.com/user-attachments/assets/cb02e87c-170c-42c6-8e2f-3790ffa90c2d" />
+
   
